@@ -1,0 +1,462 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #000;
+    overflow-x: hidden;
+    transition: opacity 0.5s 0.3s ease-in-out;
+}
+
+.nav-login-btn .btn {
+    background-color: #FF635F;
+    border-radius: 23px;
+    font-weight: 500;
+    padding: 6px 30px;
+}
+
+.navbar-nav .nav-link {
+    color: #000000E0;
+    font-weight: 500;
+}
+
+.dropdown-toggle::after {
+    color: #FF635F;
+}
+
+
+/* banner-section */
+.banner-section {
+    background-image: url(../img/Group\ 2763.png);
+    padding: 20px 0px 60px;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner-body h1 {
+    font-weight: 700;
+}
+
+.banner-body p {
+    color: #EBEBEB;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Verdana, ;
+}
+
+.banner-bottom-card {
+    box-shadow: 0px 3px 26px #00000010;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 20px;
+    padding: 20px 20px;
+    opacity: 1;
+    position: relative;
+    top: -48px;
+}
+
+.play-real-money {
+    display: flex;
+    background-color: #FF635F;
+    border-radius: 19px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.play-real-money p {
+    padding: 8px 0px 8px;
+    margin: 0px;
+    font-size: 17px;
+    font-weight: 400;
+
+
+}
+
+.play-real-money img {
+    height: auto;
+    width: 50%;
+}
+
+/* main-wrapper-section */
+.no-one-top-rated-casino {
+    max-width: 1030px !important;
+}
+
+.main-wrapper-section .seconary-color {
+    color: #FF635F;
+}
+
+.no-one-top-rated-casino .india-flag-section {
+    background-color: #FF635F;
+    border-radius: 10px;
+}
+
+.main-card {
+    border-radius: 20px;
+}
+
+.no-one-top-rated-casino .main-card {
+    box-shadow: 0px 3px 26px #00000010;
+    padding: 25px 0px 25px;
+}
+
+.no-one-top-rated-casino .fastest-indian-rs h6 {
+    color: #FF5352;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.fastest-indian-rs ul li {
+    font-size: 13px;
+    color: #000000;
+    opacity: 1;
+    font-weight: 500;
+    text-wrap: nowrap;
+}
+
+
+.no-one-top-rated-casino .bonus-btn {
+    border: 1px solid #FF6459;
+    border-radius: 23px;
+    padding: 5px 18px;
+    font-weight: 800;
+    color: red;
+    opacity: 1;
+}
+
+.no-one-top-rated-casino .bonus-text {
+    font-size: 14px;
+    text-align: center;
+    font: normal normal normal Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-weight: 600;
+}
+
+.yellow-ratings-border {
+    border: 1px solid #ff6f5984;
+}
+
+.no-one-top-rated-casino .play-now-btn {
+    border-radius: 23px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    background: transparent linear-gradient(180deg, #FF635F 0%, #FF845D 100%) 0% 0% no-repeat padding-box;
+}
+
+.review-right-text {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.payment-section img {
+    width: 60px;
+    padding: 0px 3px;
+}
+
+
+
+
+
+
+
+
+.all-clients-main-cards-section .main-card-body {
+    max-width: 1000px;
+}
+
+.main-card-body {
+    padding: 30px 0px 30px;
+    box-shadow: 0px 3px 26px #00000010;
+    border-radius: 20px;
+}
+
+.main-card-body .left-client-images {
+    height: 45px;
+}
+
+.easy-sign-up-deposits h6 {
+    color: #FF5352;
+    opacity: 1;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.easy-sign-up-deposits ul li {
+    font-size: 15px;
+    color: #000000;
+    opacity: 1;
+    font-weight: 500;
+}
+
+
+.all-clients-main-cards-section .play-now-btn {
+    border-radius: 23px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px 23px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    background: transparent linear-gradient(180deg, #FF635F 0%, #FF845D 100%) 0% 0% no-repeat padding-box;
+}
+
+.all-clients-main-cards-section .left-payment-section img {
+    width: 50px;
+}
+
+.all-clients-main-cards-section .reviews-text {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.main-card-body-bg-secondary {
+    background: #EBEBEB 0% 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-section {
+    background-image: url(../img/Group\ 48095504\ footer-bg.svg);
+    height: auto;
+    width: 100%;
+}
+
+.footer-section .nav-link {
+    color: #EBEBEB;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Verdana, ;
+
+}
+
+.footer-section .active {
+    color: white;
+    text-underline-offset: 6px;
+
+
+}
+
+
+.footer-section .nav-link:hover {
+    color: #EBEBEB;
+
+}
+
+.left-socials-icons a {
+    font-size: 17px;
+    height: 32px;
+    text-align: center;
+    width: 32px;
+    padding: 5px 10px;
+    background-color: #FF845D;
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.trusted-casino-body h6 {
+    font-size: 16px;
+}
+
+.trusted-casino-body p {
+    color: #EBEBEB;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Verdana, ;
+}
+
+.copywrite-section .teen-patti-btn {
+    border-radius: 23px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 8px 23px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    background: transparent linear-gradient(180deg, #FF635F 0%, #FF845D 100%) 0% 0% no-repeat padding-box;
+}
+
+.copywrite-section p {
+    color: #EBEBEB;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Verdana, ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px) {
+
+    /* banner-section */
+    .banner-section {
+        padding: 20px 0px 40px;
+    }
+
+    .banner-body h1 {
+        font-weight: 600;
+    }
+
+    .banner-bottom-card {
+        border-radius: 15px;
+        padding: 12px;
+        top: -60px;
+    }
+
+    .play-real-money p {
+        padding: 4px 0px 4px;
+        font-size: 14px;
+    }
+
+    .play-real-money img {
+        height: auto;
+        width: 45%;
+    }
+
+    /* main-wrapper-section */
+    .main-card {
+        border-radius: 12px;
+    }
+
+    .no-one-top-rated-casino .main-card {
+        padding: 10px 0px 10px;
+    }
+
+    .no-one-top-rated-casino .fastest-indian-rs h6 {
+        font-size: 15px;
+    }
+
+    .fastest-indian-rs ul li {
+        font-size: 13px;
+    }
+
+
+    .no-one-top-rated-casino .bonus-btn {
+        border-radius: 23px;
+        padding: 5px 15px;
+        font-weight: 600;
+    }
+
+    .yellow-ratings-border {
+        border: 1px solid #ff6f594a;
+    }
+
+    .review-right-text {
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    .payment-section img {
+        width: 50px;
+    }
+
+    .main-card-body {
+        padding: 20px 0px 20px;
+        box-shadow: 0px 3px 26px #00000010;
+        border-radius: 20px;
+    }
+
+    .main-card-body .left-client-images {
+        height: 30px;
+        margin-bottom: 14px;
+    }
+
+    .easy-sign-up-deposits {
+        align-items: center;
+    }
+
+    .easy-sign-up-deposits h6 {
+        font-size: 17px;
+    }
+
+    .easy-sign-up-deposits ul li {
+        font-size: 15px;
+    }
+
+
+    .all-clients-main-cards-section .play-now-btn {
+        border-radius: 10px;
+        font-size: 14px;
+        font-weight: 600;
+        padding: 8px 40px;
+    }
+
+    .all-clients-main-cards-section .left-payment-section img {
+        width: 50px;
+    }
+
+    .footer-section .nav-link {
+        color: #EBEBEB;
+        font-size: 14px;
+
+    }
+    .left-socials-icons a {
+        font-size: 13px;
+        height: 20px;
+        width: 20px;
+    }
+
+    .trusted-casino-body h6 {
+        font-size: 15px;
+    }
+    .trusted-casino-body p {
+        font-size: 14px;
+    }
+
+    .copywrite-section .teen-patti-btn {
+        border-radius: 12px;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding: 8px 30px;
+    }
+
+    .copywrite-section p {
+        color: #EBEBEB;
+        font-size: 14px;
+        font-weight: 500;
+        font-family: Verdana, ;
+    }
+}
